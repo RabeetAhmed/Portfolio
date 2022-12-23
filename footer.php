@@ -1,0 +1,10 @@
+
+	<!-- JavaScripts -->
+	<script src="assets/js/jquery-3.4.1.min.js"></script>
+	<script src="assets/js/plugins.min.js"></script>
+	<script src="assets/js/common.js"></script>
+	<script src="assets/js/mapbox.init.js"></script>
+
+
+</body>
+</html>
